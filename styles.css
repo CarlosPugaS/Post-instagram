@@ -1,0 +1,65 @@
+body {
+    background-color: black;
+}
+.sup {
+    background-color: black;
+    height: 55px;
+    font-family: roboto;
+    padding-top: 50px;
+
+}
+.section {
+    background-color: white;
+    width: 500px;
+    height: 55px;
+    display: flex;
+    margin: 0 auto;
+    border-width: 20px;
+    justify-content: space-between;
+    align-items: center;
+}
+.logonombre {
+    display: flex;
+    align-items: center;
+}
+.htmlicono {
+    font-size: xx-large;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.puntos {
+    font-size: xx-large;
+    padding: 20px;
+}
+.inferior {
+    background-color: black;
+    height: 635px;
+    font-family: Roboto;
+}
+.estructura {
+    background-color: white;
+    width: 500px;
+    height: 600px;
+    margin: 0 auto;
+}
+img {
+    width: 500px;
+    height: 400px;
+}
+.inter {
+    display: flex;
+    justify-content: space-between ;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: xx-large;
+
+}
+.Likes {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.Parrafo {
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: justify;
+}
